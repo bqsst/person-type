@@ -75,7 +75,7 @@ function SuccessPage() {
                 </div>
                 <div className='flex flex-col gap-4 lg:space-x-10'>
                     {/* แสดงภาพสุ่ม */}
-                    <img src={randomImage} alt="Random" className='w-[200px] rounded-lg' />
+                    <img src={randomImage} alt="Image" className='w-[200px] rounded-lg' />
                     <button onClick={buttonClick} 
                     className='bg-cyan-700 text-white p-4 rounded-lg hover:bg-blue-950'>
                         เล่นอีกครั้ง
