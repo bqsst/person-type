@@ -43,7 +43,7 @@ function ColorPage() {
     return (
         <div className="flex flex-col h-screen w-full">
             <div className='flex justify-normal items-center h-1/6 w-full pt-6'>
-                <h1 className='text-blue-950 text-3xl md:text-5xl font-bold ml-[120px] sm:ml-[240px] md:ml-[80px] sm:mb-[20px] lg:ml-32 lg:mt-[20px]'>Color</h1>
+                <h1 className='text-blue-950 text-3xl md:text-5xl font-bold ml-[120px] sm:ml-[240px] md:ml-[80px] sm:mb-[20px] lg:ml-32 lg:mt-[20px]'>สี</h1>
             </div>
             <div className="grid grid-cols-1 grid-rows-6 sm:grid-cols-2 sm:grid-rows-3 gap-y-[170px] sm:gap-4 h-5/6 w-full pt-4 pl-8 
                 md:grid-cols-2 md:grid-rows-3 md:gap-6 md:px-16
@@ -51,7 +51,7 @@ function ColorPage() {
                 {colorElement}
             </div>
             <div className="flex justify-center md:justify-end mt-[450px] sm:mt-[50px] md:mt-6 pb-[50px] sm:mb-10 lg:mb-24 mr-[120px] md:mr-[30px] ml-[180px] sm:ml-[110px] space-x-10">
-                <button onClick={buttonClick} className='bg-cyan-700 text-slate-100 font-medium py-[14px] px-[38px] md:mr-[37px] lg:mr-[103px] rounded-md hover:bg-blue-950'>Next</button>
+                <button onClick={buttonClick} className='bg-cyan-700 text-slate-100 font-medium py-[14px] px-[38px] md:mr-[37px] lg:mr-[103px] rounded-md hover:bg-blue-950'>ต่อไป</button>
             </div>
         </div>
     )

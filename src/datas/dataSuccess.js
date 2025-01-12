@@ -1,52 +1,52 @@
 // dataResult ที่ปรับให้เป็น object
 const dataResult = {
     colors: [
-        { Red: 'Confident' },
-        { Blue: 'Peaceful' },
-        { Green: 'Bright' },
-        { Yellow: 'Cheerful' },
-        { Purple: 'Creativity' },
-        { Black: 'Profound' },
+        { Red: 'มั่นใจ' }, // Confident
+        { Blue: 'สงบ' }, // Peaceful
+        { Green: 'สดใส' }, // Bright
+        { Yellow: 'ร่าเริง' }, // Cheerful
+        { Purple: 'สร้างสรรค์' }, // Creativity
+        { Black: 'ลึกซึ้ง' }, // Profound
     ],
     tourists: [
-        { Beach: 'Relax' },
-        { City: 'Like the excitement' },
-        { Mountain: 'Calm' },
-        { Forest: 'Calm' },
-        { History: 'Like learning' },
-        { Art: 'Creativity' },
+        { Beach: 'ชอบพักผ่อน' }, // Relax
+        { City: 'ชอบความตื่นเต้น' }, // Like the excitement
+        { Mountain: 'สงบ' }, // Calm
+        { Forest: 'สงบ' }, // Calm 
+        { History: 'ชอบเรียนรู้' }, // Like learning
+        { Art: 'สร้างสรรค์' }, // Creativity
     ],
     bedrooms: [
-        { Simple: 'Like the convenience' },
-        { Colorfull: 'Cheerful' },
-        { Woot: 'Love warmth' },
-        { Vintage: 'Like the classics' },
-        { PicUrl: 'Like art' },
-        { Simple2: 'Like efficiency' },
+        { Simple: 'ชอบความสะดวกสบาย' }, // Like the convenience
+        { Colorfull: 'ร่าเริง' }, // Cheerful
+        { Woot: 'รักความอบอุ่น' }, // Love warmth
+        { Vintage: 'ชอบของคลาสสิค' }, // Like the classics
+        { PicUrl: 'ชอบศิลปะ' }, // Like art
+        { Simple2: 'ชอบความมีประสิทธิภาพ' }, // Like efficiency
     ],
     foods: [
-        { Sea: 'Like trying new things' },
-        { Asia: 'Like variety' },
-        { Frence: 'Love luxury' },
-        { Italian: 'Like the classics' },
-        { Maxican: 'Like the bold flavor' },
-        { China: 'Like variety' },
+        { Sea: 'ชอบลองสิ่งใหม่ๆ' }, // Like trying new things
+        { Asia: 'ชอบความหลากหลาย' }, // Like variety
+        { Frence: 'รักความหรูหรา' }, // Love luxury
+        { Italian: 'ชอบของคลาสสิค' }, // Like the classics
+        { Maxican: 'ชอบรสชาติที่จัดจ้าน' }, // Like the bold flavor
+        { China: 'ชอบความหลากหลาย' }, // Like variety
     ],
     houses: [
-        { Modle: 'Like modernity' },
-        { Classic: 'Like warmth' },
-        { Countryside: 'Like simplicity' },
-        { Scandivia: 'Like cleanliness and simplicity' },
-        { Minimal: 'Like simplicity' },
-        { Big: 'Like luxury' },
+        { Modle: 'ชอบความทันสมัย' }, // Like modernity
+        { Classic: 'ชอบความอบอุ่น' }, // Like warmth
+        { Countryside: 'ชอบความเรียบง่าย' }, // Like simplicity
+        { Scandivia: 'ชอบความสะอาดและเรียบง่าย' }, // Like cleanliness and simplicity
+        { Minimal: 'ชอบความเรียบง่าย' }, // Like simplicity
+        { Big: 'ชอบความหรูหรา' }, // Like luxury
     ],
     cars: [
-        { Sport: 'Like the excitement' },
-        { Hight: 'Love luxury' },
-        { Electronic: 'Care about the environment' },
-        { Offroad: 'Adventurous' },
-        { Middle: 'Like the convenience' },
-        { Van: 'Like warmth' },
+        { Sport: 'ชอบความตื่นเต้น' }, // Like the excitement
+        { Hight: 'รักความหรูหรา' }, // Love luxury
+        { Electronic: 'ใส่ใจสิ่งแวดล้อม' }, // Care about the environment
+        { Offroad: 'ชอบการผจญภัย' }, // Adventurous
+        { Middle: 'ชอบความสะดวกสบาย' }, // Like the convenience
+        { Van: 'ชอบความอบอุ่น' }, // Like warmth
     ]
 };
 
